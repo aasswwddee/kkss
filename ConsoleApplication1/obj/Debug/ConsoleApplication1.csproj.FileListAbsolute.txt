@@ -4,3 +4,9 @@ E:\vs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 E:\vs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 E:\vs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 E:\vs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\RyanZhan\Documents\GitHub\kkss\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\RyanZhan\Documents\GitHub\kkss\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\RyanZhan\Documents\GitHub\kkss\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\RyanZhan\Documents\GitHub\kkss\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\RyanZhan\Documents\GitHub\kkss\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\RyanZhan\Documents\GitHub\kkss\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

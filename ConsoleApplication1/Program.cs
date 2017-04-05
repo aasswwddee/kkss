@@ -254,6 +254,7 @@ namespace ConsoleApplication1
    
     class Program
     {
+        private static bool dd;
         static void Main(string[] args)
         {
 
@@ -273,6 +274,12 @@ namespace ConsoleApplication1
                  player.Attak(enemy);
                 enemy.Attak(player);
                 stuff.potionuse();
+                if (dd = true)
+                {
+                    player = new Player("player", 310, 23, 0.3f);
+                    Console.WriteLine("如果是，玩家加10点血");
+                }
+                   
                 Console.ReadLine();
             }
 
