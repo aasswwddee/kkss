@@ -22,7 +22,10 @@ namespace ConsoleApplication1
         public int PCount { get { return h_count; } set { h_count = value; } }
         public int PHeal { get { return h_heal; } set { h_heal = value; } }
 
+       /*public virtual void Use(int plus)
+        {
 
+        }*/
         
 
         public override void Equipment()
