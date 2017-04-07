@@ -26,7 +26,16 @@ namespace ConsoleApplication1
 
         public virtual void Equipe(Weapons hit)
         {
-            
+            Console.WriteLine(this.WName + "的攻击力是" + this.WAtk);
+            hit.Hitdamage(this.WAtk);
+        }
+
+        public virtual void Hitdamage(int damage)
+        {
+            if (damage < 0)
+            {
+                return;
+            }
         }
         public override void Equipment()
         {
